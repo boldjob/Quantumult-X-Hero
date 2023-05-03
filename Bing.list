@@ -48,3 +48,15 @@ host-suffix,renovacionoffice.com,Microsoft
 host-suffix,sprinklesapp.com,Microsoft
 host-suffix,working-bing-int.com,Microsoft
 host-suffix,emoi-cncdn.bing.com,Microsoft
+
+# > MSN
+host-keyword,microsoftnews,Microsoft
+host-keyword,microsoft-online,Microsoft
+host-keyword,microsoftnewsforkids,Microsoft
+host-keyword,microsoftnewskids,Microsoft
+host-keyword,microsoftol,Microsoft
+host-keyword,msn,Microsoft
+host-keyword,msnewskids,Microsoft
+host-suffix,microsoftusercontent.com,Microsoft
+host-suffix,msnkids.com,Microsoft
+host-suffix,winmp.cn,Microsoft
