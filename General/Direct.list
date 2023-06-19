@@ -1,6 +1,10 @@
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
+# Slowly
+
+host-suffix, getslowly.com, direct
+
 # 浦发银行
 host-suffix, spdb.com.cn, direct
 
