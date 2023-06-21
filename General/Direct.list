@@ -1,6 +1,9 @@
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
+# 猎聘
+host-suffix, liepin.com, direct
+
 # 51job前程无忧
 host-suffix, 51job.com, direct
 
