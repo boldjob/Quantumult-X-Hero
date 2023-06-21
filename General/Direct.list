@@ -1,8 +1,10 @@
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
-# Slowly
+# 51job前程无忧
+host-suffix, 51job.com, direct
 
+# Slowly
 host-suffix, getslowly.com, direct
 
 # 浦发银行
