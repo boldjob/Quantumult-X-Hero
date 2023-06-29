@@ -1,6 +1,10 @@
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
+#只能直连的盗文网站
+
+host-suffix, shubaow.net, direct
+
 # 猎聘
 host-suffix, liepin.com, direct
 
