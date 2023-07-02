@@ -1,7 +1,11 @@
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
-#只能直连的盗文网站
+# 百度地图
+
+host-suffix, bcebos.com, direct
+
+# 只能直连的盗文网站
 
 host-suffix, shubaow.net, direct
 
