@@ -1,12 +1,13 @@
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
-# 百度地图
+#Boss直聘
+host-suffix, zhipin.com, direct
 
+# 百度地图
 host-suffix, bcebos.com, direct
 
 # 只能直连的盗文网站
-
 host-suffix, shubaow.net, direct
 
 # 猎聘
