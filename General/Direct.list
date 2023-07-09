@@ -1,7 +1,4 @@
-# GeoIP CN段 直联
-GEOIP,CN,DIRECT
-
-#Boss直聘
+# Boss直聘
 host-suffix, zhipin.com, direct
 
 # 百度地图
